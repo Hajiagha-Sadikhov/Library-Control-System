@@ -1,0 +1,16 @@
+0000000000001,Aldanmış Kəvakib,Mirzə Fətəli Axundov,T,5
+0000000000002,Gün Var Əsrə Bərabər,Çingiz Aytmatov,F,4
+0000000000003,Yağışdan Sonra,Elçin Əfəndiyev,T,3
+0000000000004,Dəli Kür,İsmayıl Şıxlı,F,2
+0000000000005,Yaşar Ne Yaşar Ne Yaşamaz,Aziz Nesin,T,1
+0000000000006,Əsrin Ən Yaxşı Adamı,Elçin Hüseynbəyli,F,5
+0000000000007,Vaqif,Səməd Vurğun,T,4
+0000000000008,Ölülər,Mirzə Cəlil Məmmədquluzadə,F,3
+0000000000009,Leyli və Məcnun,Məhəmməd Füzuli,T,2
+0000000000010,Bir Dünya Qur,Əli Nəzmi,F,1
+0000000000011,Çalıquşu,Rəşad Nuri Güntəkin,T,5
+0000000000012,Safahat,Mehmet Akif Ersoy,F,4
+0000000000013,Yolçu,Rasim Qaraca,T,3
+0000000000014,Dənizin Səsi,Samirə Nəsirzadə,F,2
+0000000000015,Yazı,Novruz Nəcəfov,T,1
+

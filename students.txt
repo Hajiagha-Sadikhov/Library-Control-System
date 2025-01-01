@@ -1,0 +1,10 @@
+000001/Peter Parker/0
+000002/Tony Stark/0
+000003/Captain America/0
+000004/Thor Odinson/0
+000005/Hermione Granger/0
+000006/Bruce Wayne/8
+000007/Clark Kent/8
+000008/Wanda Maximoff/0
+000009/Stephen Strange/4
+
