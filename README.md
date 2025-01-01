@@ -22,7 +22,7 @@ Hi all, this is a librarian application. When you run the .py file, a menu will 
 ```
 ## Install and Run
 It's quite easy to use this application. All you have to do is:
-
+https://avatars.githubusercontent.com/u/193419591?v=4&size=64
 ```Python
 python3 library_management.py
 ```
@@ -31,6 +31,6 @@ and you'll encounter a menu.
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/193004630?s=400&u=dfc61c4c99289a40f06a32ca51e353b2d48382a8&v=4" width="100px;" alt=""/><br /><sub><b>Hacıağa Sadıxov</b></sub></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/193419591?v"=4&size=64" width="100px;" alt=""/><br /><sub><b>Hacıağa Sadıxov</b></sub></a></td>
   </tr>
 </table>
