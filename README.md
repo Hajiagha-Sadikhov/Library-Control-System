@@ -22,7 +22,6 @@ Hi all, this is a librarian application. When you run the .py file, a menu will 
 ```
 ## Install and Run
 It's quite easy to use this application. All you have to do is:
-https://avatars.githubusercontent.com/u/193419591?v=4&size=64
 ```Python
 python3 library_management.py
 ```
